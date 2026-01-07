@@ -1,6 +1,8 @@
 print("Git/Github Demo")
 # some comment
-print ("hello from the remote repo")
+print("hello from the remote repo")
 
 print("from local repo")
 print("Hey remote you dummy")
+
+print("Hey Hey, what's up Chevy!")
